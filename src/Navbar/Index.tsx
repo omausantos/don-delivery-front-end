@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="main-navbar">
       <Logo />
-      <Link to="/" className="logo-text">DS Delivery</Link>
+      <Link to="/" className="logo-text">Pizzaria Don Corleone - Desde 1970</Link>
     </nav>
   )
 }
